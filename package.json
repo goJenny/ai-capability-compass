@@ -1,0 +1,12 @@
+{
+  "name": "ai-capability-compass",
+  "version": "0.4.0",
+  "private": true,
+  "description": "Buildless Korean AI capability pilot, with unverified practice scores",
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "test": "node --test",
+    "check": "node scripts/check.cjs"
+  },
+  "engines": { "node": ">=20" }
+}
